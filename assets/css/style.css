@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.cards{
+    padding: 0%;
+}
+.contenedor_form{
+    background-color: #28a745!important;
+    color: white !important;
+    
+}
+.positions{
+    justify-content: end;
+    
+}
+.positions ul li a{
+    color: white;
+}
+.titulo{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #212529;
+}
+.texto{
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 0%;
+    color: #707070;
+}
+.precio{
+    font-family: 'Roboto', sans-serif;
+    display: flex; 
+    flex-direction: row;
+    justify-content: end;
+}
+.precio span{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size:small;
+    margin-top: 3px;
+    margin-right: 3px;
+}
+.precio p{
+    font-family: 'Roboto', sans-serif;
+    color: #28a745;
+    font-weight: 300;
+    font-size:medium;
+}
+.titulo_form{
+    font-family: 'Roboto', sans-serif;
+    font-weight:400;
+    font-size:large;
+}
+footer{
+    margin-top: 2%;
+    text-align: center;
+}
+footer img{
+    width: 100px;
+}
